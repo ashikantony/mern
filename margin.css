@@ -1,0 +1,24 @@
+p {  
+    background-color: rgb(42, 151, 151);  
+}  
+p.ex {  
+    margin-top: 50px;  
+    margin-bottom: 50px;  
+    margin-right: 200px;  
+    margin-left: 200px;  
+}  
+p.ex1 {  
+    margin: 50px 100px 150px 200px;  
+} 
+p.ex2 {  
+    margin: 50px 100px 150px;  
+} 
+p.ex3 {  
+    margin: 50px 100px;
+} 
+p.ex4 {  
+    margin: 50px;
+} 
+p.ex3 {  
+    margin: 50px 100px;
+} 

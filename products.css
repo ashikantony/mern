@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo
+{
+    display: flex
+}
+.title
+{
+    font-family: Arial, sans-serif;
+    text-align: left; 
+}
+body 
+{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+    color: #333; 
+}
+header 
+{
+    background-color: #23fd06; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+/* product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, auto);
+    gap: 20px;
+} */
+header img 
+{
+    width: 50px;
+}
+.products 
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.products h2 
+{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.productsvelth 
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.productsellam 
+{
+    background-color: white;
+    border: 1px solid #ccc; 
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+.productsellam img 
+{
+    width: 100%;
+    height: auto;
+}
+.productsellam h3 
+{
+    font-size: 1.2em;
+    margin: 10px;
+}
+.productsellam p 
+{
+    font-size: 1.1em;
+    margin: 5px 0;
+}
+.productsellam button {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.productsellam button:hover {
+    background-color: #555;
+}

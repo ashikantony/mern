@@ -1,0 +1,19 @@
+h1{
+    background-color: black;
+    color:white;
+}
+h3 {
+    color:black;
+    solid:bold;
+}
+button{
+    background-color: darkblue;
+    color:white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.price{
+    color:red;
+    font-weight: bold;
+}

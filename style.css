@@ -1,0 +1,12 @@
+body{
+    background-image:url('https://www.ngmisr.com/en/wp-content/uploads/2023/08/000_1LU1Q8.jpg');
+    height:200px;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{
+        color:rgb(215, 26, 64);
+        text-align: center;
+        background-color:beige;
+        border:1px solid red
+}
